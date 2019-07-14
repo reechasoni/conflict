@@ -1,0 +1,8 @@
+hi this is new line.
+hi this is second line.
+hi this third line.
+<<<<<<< HEAD
+hi this is 5th line
+=======
+hi thsi 4 line.
+>>>>>>> cc812a9da450f144ec2432b8557ac5cc6ee00be1
